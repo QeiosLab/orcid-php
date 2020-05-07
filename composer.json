@@ -1,5 +1,5 @@
 {
-    "name": "QeiosLab/orcid-php",
+    "name": "qeios-lab/orcid-php",
     "description": "Library for ORCID web services",
     "keywords": ["orcid", "php", "oauth"],
     "license": "MIT",
